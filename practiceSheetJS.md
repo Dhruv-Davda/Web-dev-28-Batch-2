@@ -39,14 +39,14 @@
 
 ### Object Questions
 
-6. **Merge Two Objects:**
+<ins>6. **Merge Two Objects:** </ins>
    - Create a function `mergeObjects(obj1, obj2)` that merges two objects.
    - Example:
      ```javascript
      mergeObjects({a: 1}, {b: 2}); // {a: 1, b: 2}
      ```
 
-7. **Count Properties:**
+<ins>7. **Count Properties:** </ins>
    - Write a function `countProperties(obj)` that returns the number of properties in an object.
    - Example:
      ```javascript
