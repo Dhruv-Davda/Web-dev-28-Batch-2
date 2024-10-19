@@ -140,7 +140,7 @@
 <ins>21. **Reassign `let`, `var`, and `const`:** </ins>
     - Write code that demonstrates reassigning values to `let`, `var`, and `const`, and explain the outcomes.
 
-22. **Variable Shadowing:**
+<ins>22. **Variable Shadowing:**</ins>
     - Create an example showing variable shadowing using `let` and `var`.
 
 <ins>23. **Global Scope vs Local Scope:** </ins>
