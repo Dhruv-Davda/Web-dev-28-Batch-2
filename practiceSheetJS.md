@@ -72,14 +72,14 @@
 
 ### String Questions
 
-11. **Reverse String:**
+<ins>11. **Reverse String:**</ins>
     - Create a function `reverseString(str)` that returns the reversed version of a given string.
     - Example:
       ```javascript
       reverseString("hello"); // "olleh"
       ```
 
-12. **Count Vowels:**
+<ins>12. **Count Vowels:**</ins>
     - Write a function `countVowels(str)` that counts the number of vowels in a string.
     - Example:
       ```javascript
