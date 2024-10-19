@@ -2,8 +2,9 @@
 
 ### Array Questions
 
-1. **Reverse Array:**
+<ins> 1. **Reverse Array:**
    - Write a function `reverseArray(arr)` that takes an array as input and returns a new array with elements in reverse order.
+</ins>
 
 2. **Remove Duplicates:**
    - Create a function `removeDuplicates(arr)` that removes duplicate elements from an array and returns a new array.
