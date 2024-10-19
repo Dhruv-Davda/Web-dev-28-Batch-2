@@ -86,21 +86,21 @@
       countVowels("hello world"); // 3
       ```
 
-13. **Check Palindrome:**
+  <ins> 13. **Check Palindrome:** </ins>
     - Create a function `isPalindrome(str)` that checks if a string is a palindrome.
     - Example:
       ```javascript
       isPalindrome("racecar"); // true
       ```
 
-14. **Remove Whitespaces:**
+ <ins>14. **Remove Whitespaces:** </ins>
     - Implement `removeWhitespaces(str)` that removes all spaces from a string.
     - Example:
       ```javascript
       removeWhitespaces("hello world"); // "helloworld"
       ```
 
-15. **Capitalize Every Word:**
+<ins> 15. **Capitalize Every Word:** </ins>
     - Write a function `capitalizeWords(str)` that capitalizes the first letter of every word in a string.
     - Example:
       ```javascript
@@ -117,7 +117,7 @@
       ```
     - Explain why.
 
-17. **Scope Example:**
+<ins>17. **Scope Example:** </ins>
     - Write a function `checkScope()` to demonstrate how `let`, `var`, and `const` behave differently inside a block scope.
 
 18. **Hoisting of Functions:**
@@ -137,7 +137,7 @@
 
 ### Variable Declaration Questions
 
-21. **Reassign `let`, `var`, and `const`:**
+<ins>21. **Reassign `let`, `var`, and `const`:** </ins>
     - Write code that demonstrates reassigning values to `let`, `var`, and `const`, and explain the outcomes.
 
 22. **Variable Shadowing:**
@@ -149,7 +149,7 @@
 24. **Block Scope with `let`:**
     - Create an example that demonstrates block scoping with `let`.
 
-25. **Differences between `var`, `let`, and `const`:**
+ <ins> 25. **Differences between `var`, `let`, and `const`:** </ins>
     - Write a code snippet that highlights the key differences between these variable declarations.
 
 ### Higher-Order Function Questions
