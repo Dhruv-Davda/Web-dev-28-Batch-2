@@ -18,7 +18,7 @@
    - Example:
      ```javascript
      findMax([4, 1, 7, 3]); // 7
-     ```</ins>
+     ```
 
 <ins> 4. **Sum of Elements:** </ins>
    - Implement `sumArray(arr)` to return the sum of all elements in an array.
