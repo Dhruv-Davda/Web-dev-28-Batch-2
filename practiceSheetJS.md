@@ -53,7 +53,7 @@
      countProperties({a: 1, b: 2}); // 2
      ```
 
-8. **Deep Clone an Object:**
+<ins>8. **Deep Clone an Object:**</ins>
    - Implement `deepClone(obj)` that creates a deep copy of the given object.
 
 9. **Filter Object by Keys:**
