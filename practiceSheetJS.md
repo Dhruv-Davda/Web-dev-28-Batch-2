@@ -2,20 +2,20 @@
 
 ### Array Questions
 
-<ins> 1. **Reverse Array:**
+<ins> 1. **Reverse Array:** </ins>
    - Write a function `reverseArray(arr)` that takes an array as input and returns a new array with elements in reverse order.
-</ins>
+
 
 <ins>
-2. **Remove Duplicates:**
+2. **Remove Duplicates:** </ins>
    - Create a function `removeDuplicates(arr)` that removes duplicate elements from an array and returns a new array.
    - Example: 
      ```javascript
      removeDuplicates([1, 2, 2, 3, 4, 4]); // [1, 2, 3, 4]
-   </ins>
      ```
+     
 <ins>
-3. **Find Maximum:**
+3. **Find Maximum:** </ins>
    - Write a function `findMax(arr)` that returns the largest number in an array.
    - Example:
      ```javascript
@@ -23,21 +23,21 @@
      ```</ins>
 
 <ins>
-4. **Sum of Elements:**
+4. **Sum of Elements:** </ins>
    - Implement `sumArray(arr)` to return the sum of all elements in an array.
    - Example:
      ```javascript
      sumArray([1, 2, 3]); // 6
-     ``` </ins>
+     ``` 
 
 <ins>
-5. **Flatten Nested Arrays:**
+5. **Flatten Nested Arrays:** </ins>
    - Write a function `flattenArray(arr)` that flattens a nested array into a single-level array.
    - Example:
      ```javascript
      flattenArray([1, [2, [3, 4]]]); // [1, 2, 3, 4]
      ```
-     </ins>
+    
 
 
 
