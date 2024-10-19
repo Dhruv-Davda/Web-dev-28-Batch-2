@@ -143,10 +143,10 @@
 22. **Variable Shadowing:**
     - Create an example showing variable shadowing using `let` and `var`.
 
-23. **Global Scope vs Local Scope:**
+<ins>23. **Global Scope vs Local Scope:** </ins>
     - Write code to explain the difference between global and local scopes using `var`, `let`, and `const`.
 
-24. **Block Scope with `let`:**
+<ins>24. **Block Scope with `let`:**</ins>
     - Create an example that demonstrates block scoping with `let`.
 
  <ins> 25. **Differences between `var`, `let`, and `const`:** </ins>
