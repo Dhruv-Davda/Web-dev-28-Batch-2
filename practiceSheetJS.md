@@ -132,7 +132,7 @@
 19. **Hoisting with `let` and `var`:**
     - Write a short code example showing how `let` and `var` differ in terms of hoisting.
 
-20. **Temporal Dead Zone:**
+<ins>20. **Temporal Dead Zone:**</ins>
     - Explain the concept of Temporal Dead Zone with an example using `let` and `const`.
 
 ### Variable Declaration Questions
