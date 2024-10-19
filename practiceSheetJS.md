@@ -6,33 +6,40 @@
    - Write a function `reverseArray(arr)` that takes an array as input and returns a new array with elements in reverse order.
 </ins>
 
+<ins>
 2. **Remove Duplicates:**
    - Create a function `removeDuplicates(arr)` that removes duplicate elements from an array and returns a new array.
    - Example: 
      ```javascript
      removeDuplicates([1, 2, 2, 3, 4, 4]); // [1, 2, 3, 4]
+   </ins>
      ```
-
+<ins>
 3. **Find Maximum:**
    - Write a function `findMax(arr)` that returns the largest number in an array.
    - Example:
      ```javascript
      findMax([4, 1, 7, 3]); // 7
-     ```
+     ```</ins>
 
+<ins>
 4. **Sum of Elements:**
    - Implement `sumArray(arr)` to return the sum of all elements in an array.
    - Example:
      ```javascript
      sumArray([1, 2, 3]); // 6
-     ```
+     ``` </ins>
 
+<ins>
 5. **Flatten Nested Arrays:**
    - Write a function `flattenArray(arr)` that flattens a nested array into a single-level array.
    - Example:
      ```javascript
      flattenArray([1, [2, [3, 4]]]); // [1, 2, 3, 4]
      ```
+     </ins>
+
+
 
 ### Object Questions
 
