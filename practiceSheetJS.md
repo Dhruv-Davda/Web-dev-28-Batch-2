@@ -1,5 +1,3 @@
-
-
 ### Array Questions
 
 <ins> 1. **Reverse Array:** </ins>
